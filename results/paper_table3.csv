@@ -1,0 +1,8 @@
+Model,C1_Quran,C2_Hadith,C3_Fiqh,C4_Contemp,C5_Advers
+BanglaLLaMA-3.1-8B-inst,86.7,88.9,73.3,62.2,71.1
+BanglaLLaMA-3.1-8B-nopre,83.3,100.0,80.0,55.6,77.8
+BanglaLLaMA-3.2-3B-inst,96.7,95.6,75.6,42.2,80.0
+GPT-OSS-120B,83.3,100.0,100.0,95.6,91.1
+Gemma-2-9B,91.7,100.0,95.6,57.8,40.0
+TigerLLM-1B,60.0,88.9,46.7,51.1,68.9
+TituLM-gemma-2-2b,81.7,91.1,64.4,95.6,66.7

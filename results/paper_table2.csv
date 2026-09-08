@@ -1,0 +1,8 @@
+Model,Fabrication_pct,Confident_fab_pct,CI95,NA
+Gemma-2-9B,95.3,95.3,"[90.7, 97.7]",0
+GPT-OSS-120B,93.3,93.3,"[88.2, 96.3]",0
+BanglaLLaMA-3.2-3B-inst,90.0,90.0,"[84.2, 93.8]",7
+BanglaLLaMA-3.1-8B-nopre,87.3,86.7,"[80.3, 91.2]",5
+BanglaLLaMA-3.1-8B-inst,83.3,83.3,"[76.6, 88.4]",10
+TituLM-gemma-2-2b,79.3,79.3,"[72.2, 85.0]",1
+TigerLLM-1B,64.7,63.3,"[55.4, 70.6]",43

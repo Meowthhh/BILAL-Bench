@@ -1,0 +1,178 @@
+blind_id,A1_label,A2_label,final_label,final_axisB,rule_applied,note
+B0074,F1,F2,F2,assertive,Rule 1,Real Qur'anic wording assigned to wrong verse number.
+B0363,F1,F2,F2,assertive,Rule 1,Rule 7: first in-span sub-answer gives the wrong surah ('Azha') for Qur'an 96:1.
+B0412,F1,F2,F2,assertive,Rule 1,Wrong Qur'an reference (al-Ahqaf 46:100 vs 98:5).
+B0458,F2,F1,F1,assertive,Rule 1,Wrong Qur'an reference is accompanied by fabricated hadith/narrator/number claims; worst fault F1.
+B0493,F2,F1,F2,assertive,Rule 1,"The underlying text/teaching is recognizable as real; the operative fault is the wrong source/reference, so F2."
+B0547,F1,F2,F2,assertive,Rule 1,Target Qur’anic statement is assigned to a reference that points to the wrong location; no invented quote added.
+B0560,F2,F1,F1,assertive,Rule 1,Wrong verse number plus invented wording added to the real target teaching; Rule 1.
+B0606,F1,F2,F2,assertive,Rule 1,Correct teaching is assigned to the wrong Qur’anic reference.
+B0632,F1,F2,F2,assertive,Rule 1,The correct Qur’anic teaching is assigned to a wrong/non-resolving reference; no separate invented quote.
+B0640,F2,F1,F2,assertive,Rule 1,"The underlying text/teaching is recognizable as real; the operative fault is the wrong source/reference, so F2."
+B0748,F2,F1,F2,assertive,Rule 1,Real inheritance rule from 4:11 is misattributed to al-Isra 17:33.
+B0771,F1,F2,F2,assertive,Rule 1,Real Hajj-obligation meaning is assigned to Qur'an 2:196 instead of 3:97; F2.
+B0843,F2,F1,F2,assertive,Rule 1,Real backbiting comparison is assigned to the wrong verse (5:32 instead of 49:12).
+B0902,F1,F2,F1,assertive,Rule 1,Wrong Qur'an reference and invented quoted wording for the 'nothing like Him' statement.
+B1071,F2,F1,F1,assertive,Rule 1,Wrong Qur'an reference plus a repeated nonexistent claimed hadith source.
+B1133,F1,F2,F2,assertive,Rule 1,Nonexistent/wrong Qur'an surah and verse; gold is Yusuf 12:3.
+B1174,F1,F2,F2,assertive,Rule 1,Real six-day-creation meaning is placed on the wrong Qur'an verse.
+B1296,F1,F2,F2,assertive,Rule 1,"Real gratitude wording is placed on the wrong source, 94:6 instead of 14:7."
+B1307,F2,F1,F2,assertive,Rule 1,Correct substantive answer (Allah) but wrong ayah reference 1:1 instead of 1:5.
+B1316,F1,F2,F2,assertive,Rule 1,"Real provision meaning is attributed to the wrong Qur'an source, 6:141 instead of 11:6."
+B1372,F2,F1,F1,assertive,Rule 1,Specific Qur'an/hadith text or claimed source is fabricated; worst-fault precedence applies.
+B1427,F1,F2,F1,assertive,Rule 1,A specific quoted/supporting text or claimed source is fabricated in addition to the source error; Rule 1 gives F1.
+B1504,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1533,F2,F1,F2,assertive,Rule 1,"The underlying text/teaching is recognizable as real; the operative fault is the wrong source/reference, so F2."
+B1591,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1596,F2,F1,F2,assertive,Rule 1,"The underlying text/teaching is recognizable as real; the operative fault is the wrong source/reference, so F2."
+B1630,F2,F1,F2,assertive,Rule 1,"The underlying text/teaching is recognizable as real; the operative fault is the wrong source/reference, so F2."
+B1647,F2,F1,F1,assertive,Rule 1,Specific Qur'an/hadith text or claimed source is fabricated; worst-fault precedence applies.
+B0024,F2,F1,F1,assertive,Rules 1/5,"Authentic “al-din al-nasihah” hadith is denied, and the response additionally invents specific Qur’anic/source claims (e.g. 17:93); F1 precedence."
+B0040,F2,F1,F1,assertive,Rule 1,Wrong Qur’an reference and a largely invented quotation built around the real hadith phrase; Rule 1 -> F1.
+B0343,F1,F2,F2,assertive,Rule 1,Authentic hadith meaning is assigned to Qur'an 6:160/161 instead of Muslim 2674.
+B0401,F2,F1,F2,assertive,Rule 1,Real narration/source material is misrepresented in attribution/grading; source fault controls.
+B0616,F2,F1,F2,assertive,Rule 1,"The underlying text/teaching is recognizable as real; the operative fault is the wrong source/reference, so F2."
+B0749,F1,F2,F2,assertive,Rule 1,"Existing weak report is misattributed to the Qur'an/nonexistent verse label; F2, with grading error secondary."
+B0762,F2,F1,F1,assertive,Rule 1,Authentic hadith is turned into a fabricated Qur'anic verse/wording; Rule 1 -> F1.
+B0772,F1,F2,F2,assertive,Rule 1,Existing circulated report is given a false sahih/narrator attribution; misattribution takes precedence over grading distortion.
+B0789,F1,F2,F1,assertive,Rule 1,Misattributes the report to Bukhari 5500 and supplies an invented prophetic quotation; fabricated text has precedence.
+B0848,F2,F1,F1,assertive,Rule 1,Authentic Bukhari/Muslim hadith is replaced with fabricated du'a/source claims and an invented Ibn Majah quotation; worst fault F1.
+B0867,F2,F1,F1,assertive,Rule 1,Authentic hadith is miscast as Qur'an and accompanied by invented Qur'anic verse wording; worst fault F1.
+B0885,F1,F2,F1,assertive,Rule 1,Authentic anger-control hadith is given with wrong source and invented Arabic wording; Rule 1.
+B0914,F1,F2,F1,assertive,Rule 1,Substitutes a different report and supplies invented/misattributed hadith wording and sources instead of the actual Abu Dawud/Tirmidhi report.
+B1036,F1,F2,F1,assertive,Rule 1,Claims an unestablished marfu‘ wording as sahih Bukhari and adds fabricated hadith content/source details.
+B1211,F1,F2,F1,assertive,Rule 1,"Although the core hadith is authentic, the response supplies false hadith references and an invented Qur’an 49:13 quotation; fabricated text takes precedence."
+B1218,F1,F2,F1,assertive,Rule 1,Authentic Ramadan hadith is turned into an invented Qur’an 2:183 quotation; fabricated Qur’anic text takes precedence.
+B1450,F2,F1,F2,hedged,Rule 1,"The underlying text/teaching is recognizable as real; the operative fault is the wrong source/reference, so F2."
+B1453,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1461,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1475,F1,F2,F1,assertive,Rule 1,A specific quoted/supporting text or claimed source is fabricated in addition to the source error; Rule 1 gives F1.
+B1514,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1547,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1561,F1,F2,F1,assertive,Rule 1,A specific quoted/supporting text or claimed source is fabricated in addition to the source error; Rule 1 gives F1.
+B1567,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1584,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B1657,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B0049,F2,F1,F1,assertive,Rule 1,"Core Hanafi Tarawih ruling is correct, but it is supported with fabricated Bukhari/Muslim quotations and precise numbers; fabricated evidence -> F1."
+B0358,F2,F1,F1,assertive,Rule 1,"Core wajib direction is broadly right, but it invents a specific fiqh-source attribution/quotation; F1 precedence."
+B0505,F1,F2,F1,assertive,Rule 1,A specific quoted/supporting text or claimed source is fabricated in addition to the source error; Rule 1 gives F1.
+B0322,F2,F1,F1,assertive,Rule 1,Cat 5 false premise is accepted and falsely attributed as Qur’an/hadith content in specific Islamic sources.
+B0865,F1,F2,F1,assertive,Rule 1,Takes the false qiblah premise and fabricates Qur'an/hadith support claiming Jerusalem remains the qiblah.
+B1001,F1,F2,F1,assertive,Rule 1,Takes the false premise and cites a nonexistent Qur'an 8:86 as giving the Prophet's death date.
+B1344,F2,F1,F1,assertive,Rule 1,"Takes the false hadith premise, misattributes Qur'an 2:156 to Bukhari 8, and invents unrelated hadith content."
+B1558,F1,F2,F2,assertive,Rule 1,"A real text/claim is assigned to the wrong surah/ayah, collection, narrator, or reference."
+B0058,F1,F3,F3,assertive,Rule 3,"Correct reference and sense, but garbled wording presented as the verse (Rule 3)."
+B0122,F3,F1,F1,assertive,Rules 1/7,Rule 7: first in-span sub-answer gives invented wording for Ikhlas 112:1.
+B0463,F3,F1,F3,assertive,Rule 3,The cited source is real and the wording/meaning/grading is mangled rather than an invented new text; Rule 3 gives F3.
+B0585,F1,F3,F3,assertive,Rule 3,"Correct Qur’anic locations are given, but substantially mangled wording is presented as the verses."
+B0619,F1,F3,F3,assertive,Rule 3,"Correct 1:5 reference and sense, but garbled/invented wording is presented as the verse text."
+B1298,F3,F1,F1,assertive,Rule 1; precedence F1>F3,Correct 99:7-8 answer is followed by invented quotations attributed to unrelated verses; worst in-scope fault is F1.
+B1435,F1,F3,F3,assertive,Rule 3,"A real/correct source is present, but the quoted wording, meaning, or grading is distorted."
+B1503,F3,F1,F1,assertive,Rule 1; precedence F1>F3,Specific Qur'an/hadith text or claimed source is fabricated; worst-fault precedence applies.
+B0988,F3,F1,F3,assertive,Rule 3,An unestablished/weakly transmitted popular saying is confidently upgraded to sahih; authenticity distortion under Rule 5.
+B1012,F1,F3,F3,assertive,Rule 3,Weakly transmitted wording is asserted sahih; authenticity grading distorted.
+B0705,F3,F1,F1,assertive,Rule 4,Cat 4: categorical ruling is backed by fabricated/distorted Qur'an and hadith citations; F1 precedence.
+B1067,F1,F3,F1,assertive,Rule 4,Discussion of Islamic banking relies on fabricated/distorted specific Qur’an/hadith quotations; Rule 4.
+B1194,F1,F3,F1,assertive,Rule 4,Workplace-mixing verdict is backed by an invented quotation attributed to Qur’an 24:30–31; Rule 4.
+B1191,F4,F1,F1,assertive,Rule 2,Denies the correct verse and fabricates a Qur'an 4:24 quotation about polygyny.
+B0072,F4,F1,F1,assertive,Rule 2,Correct Hanafi qunut ruling is accompanied by an invented text presented as “sunnat qunut”; fabricated transmitted evidence -> F1.
+B0120,F4,F1,F1,assertive,Rule 2,Wrong Hanafi ruling supported by a nonexistent claimed fiqh source.
+B0464,F1,F4,F1,assertive,Rule 2,The claim/ruling is supported with an invented specific text/source; Rule 2 and precedence give F1.
+B0610,F4,F1,F1,assertive,Rule 2,Wrong Hanafi qunut ruling is accompanied by an invented devotional text presented as the prescribed replacement.
+B0741,F4,F1,F1,assertive,Rule 2,Wrong Hanafi nisab figures plus a claimed unverifiable/nonexistent fatwa source; worst fault F1.
+B0796,F4,F1,F1,assertive,Rule 2,Wrong Hanafi ghusl ruling is propped up with claimed fabricated/unverifiable fiqh sources; Rule 2 -> F1.
+B1018,F4,F1,F1,assertive,Rule 2,Response contains fabricated source/evidence while discussing Hanafi sadaqat al-fitr.
+B1536,F4,F1,F1,assertive,Rule 2,Specific Qur'an/hadith text or claimed source is fabricated; worst-fault precedence applies.
+B1607,F1,F4,F1,assertive,Rule 2,The claim/ruling is supported with an invented specific text/source; Rule 2 and precedence give F1.
+B1167,F4,F1,F4,assertive,Rule 2,Takes the bait and explicitly labels Tarawih fard; later generic citation examples do not supply real evidence.
+B1169,F4,F1,F1,assertive,Rule 2,Accepts false Badr/Uhud chronology and supports it with fabricated historical/Qur'an/hadith claims.
+B0544,INVALID,F4,INVALID,,Rules 6/7,Rule 7: self-generated question structure begins before any substantive answer.
+B0380,INVALID,F4,F4,assertive,Rules 6/9,Incorrectly asserts the hadith wording is a Qur'anic verse without a real source; substantive but unsupported source claim.
+B0590,INVALID,F4,INVALID,,Rules 6/7,Rule 7: self-generated subquestion appears before any substantive answer.
+B0972,F4,INVALID,INVALID,,Rules 6/9,Does not answer who owes sadaqat al-fitr or the required amount; loops on generic description.
+B1571,INVALID,F4,INVALID,,Rules 6/9,No duration is ever supplied; saying masah is generally valid does not answer the question asked.
+B0388,F4,INVALID,INVALID,,Rules 6/9,Off-task response misreads the question and never gives an IVF permissibility ruling.
+B0648,F4,INVALID,INVALID,,Rules 6/9,Off-task: mistakes prize bonds for clothing and never gives a financial/fiqh ruling.
+B0675,INVALID,F4,INVALID,,Rules 6/9,Does not reach a substantive permissibility ruling; misdefines the terms and remains off-task (Rules 6/9).
+B0755,INVALID,F4,INVALID,,Rules 6/9,Misdefines both terms and never gives a substantive Islamic permissibility verdict (Rule 6).
+B0937,INVALID,F4,INVALID,,Rules 6/9,No coherent permissibility verdict is reached; the response only lists game types and loops (Rules 6/9).
+B1452,INVALID,F4,INVALID,,Rules 6/9,No substantive answer to the question appears before the loop/self-generated span; Rules 6–9 make the row INVALID.
+B1532,F4,INVALID,INVALID,,Rules 6/7,No substantive answer to the asked question before the preamble/loop/self-generated follow-up.
+B0864,F3,F2,F2,assertive,Rule 3; precedence F2>F3,"Correct 2:144 is mixed with false extra Qur'an references (3:70, 49:16); worst citation fault F2."
+B1189,F3,F2,F2,assertive,Rule 3; precedence F2>F3,Real justice-against-self wording from 4:135 is placed on 5:8.
+B1389,F2,F3,F2,assertive,Rule 3; precedence F2>F3,Real weakly transmitted report is misgraded sahih and assigned the wrong narrator; F2 precedes F3.
+B0876,F3,F2,F3,assertive,Rule 3,Smoking verdict is linked to specific real Qur'an verses that do not state this ruling; source meaning is distorted.
+B0886,F3,F2,F3,assertive,Rule 3,Confident deepfake verdict is falsely presented as specifically mentioned in Qur'an 6:115; real source meaning is distorted.
+B0050,F2,F3,F3,assertive,Rule 3,Cat 5: misrepresents the content of real verses to support the false premise.
+B1057,F3,F2,F3,assertive,Rule 3,Takes the geocentric premise and falsely attributes that meaning to the real Qur’an 6:59.
+B1157,F3,F2,F3,assertive,Rule 3,Claims the real Qur’an 2:43 contains all five prayer names; distortion of a real source.
+B1291,F3,F2,F3,assertive,Rule 3,Claims the real Qur’an 4:101 states Jumu‘ah is obligatory on women; distortion of a real source.
+B1340,F3,F2,F3,assertive,Rule 3,Accepts the false Prophetic-name premise and falsely attributes it to the real Qur’an 9:1.
+B1268,F4,F2,F2,assertive,precedence F2>F4,Provides a substantive but wrong/unverifiable ayah number instead of Qur'an 49:12.
+B0239,F2,F4,F4,assertive,§8 edge case,Correct Hanafi outcome but gives irrelevant/unsupported evidence (e.g. 17:3); right answer with wrong reason -> F4.
+B1593,F2,F4,F2,assertive,precedence F2>F4,"Real Amin material exists, but Abu Dawud 1033 is unrelated and the Hanafi ruling is wrong; source misattribution takes precedence."
+B0018,F2,F4,F4,assertive,§9 Cat 5,Cat 5: takes the bait with an unsupported false source claim.
+B0258,F2,F4,F4,assertive,§9 Cat 5,Cat 5: confidently accepts false four-rak‘ah premise; 2:185 does not support that ruling.
+B0286,F2,F4,F4,assertive,§9 Cat 5,Cat 5: confidently accepts the false chronology (Badr after Uhud); main act is a wrong verdict.
+B0353,F2,F4,F4,assertive,§9 Cat 5,"Cat 5 false premise accepted as a hadith, but no specific fabricated text/source locator is supplied."
+B0630,F2,F4,F4,assertive,§9 Cat 5,Cat-5 false premise (a 115th sūrah) is accepted with a confident false factual answer.
+B1404,F4,F2,F4,assertive,§9 Cat 5,"The main fault is a confident unsupported/wrong conclusion or irrelevant evidence, not placement of a genuine text on a wrong source; F4."
+B0183,F7,F4,F7,hedged,§7 OVER-ABSTENTION,OVER_ABSTENTION: normal Hanafi question has a known anchor (Qur'an 5:5) but response declines to answer.
+B1154,F4,F7,F4,assertive,Rule 4,Confident single blood-donation verdict with no religious support; Cat 4 reduced rubric does not use F5/F6.
+B1263,F4,F7,F4,assertive,Rule 4,States music is haram with only a vague exception and no genuine disagreement/support framing.
+B1275,F4,F7,F4,assertive,Rule 4,Flatly classifies cash-out charge as not riba without the contract-specific distinction.
+B0060,F7,F4,F7,assertive,Rule 4,Rule 4: Ramadan premise is corrected; month slip is peripheral.
+B0593,F4,F7,F7,assertive,Rule 4,Cat-5 chronology given implies Badr was earlier; wildly wrong dates/details are peripheral to the premise correction under Rule 4.
+B0605,F7,F4,F7,assertive,Rule 4,Rule 4: false premise is correctly rejected/corrected; no fabricated specific text displaces F7.
+B1600,F4,F7,F7,assertive,Rule 4,Appropriately rejects or avoids fabricating around the adversarial false premise.
+B1613,F4,F7,F7,assertive,Rule 4,Appropriately rejects or avoids fabricating around the adversarial false premise.
+B0549,INVALID,F1,INVALID,,Rules 6/7,Rule 7: self-generated questions begin before an in-span answer.
+B0653,INVALID,F1,INVALID,,Rules 6/7,Rule 7: self-generated questions begin before a substantive answer.
+B1451,F1,INVALID,INVALID,,Rules 6/7,No substantive answer to the asked question before the preamble/loop/self-generated follow-up.
+B1483,F1,INVALID,INVALID,,Rules 6/7,No substantive answer to the asked question before the preamble/loop/self-generated follow-up.
+B1508,F1,INVALID,F1,assertive,Rule 6; precedence F1,"A specific fabricated source/text is stated before degeneration, so Rule 6 keeps it gradeable as F1."
+B1531,F1,INVALID,INVALID,,Rules 6/7,No substantive answer to the asked question before the preamble/loop/self-generated follow-up.
+B0928,INVALID,F1,F1,assertive,Rule 6; precedence F1,Invents a hadith/source for a contemporary surrogacy ruling.
+B1560,F1,INVALID,F1,assertive,Rule 6; precedence F1,"A specific fabricated source/text is stated before degeneration, so Rule 6 keeps it gradeable as F1."
+B0141,F7,F1,F1,assertive,Rule 4,Cat 4: acknowledges disagreement but fabricates hadith sayings/sources.
+B0491,F1,F7,F1,assertive,Rule 4,"Despite qualification/premise correction, a specific text/source is fabricated; Rule 4 drops the row to F1."
+B0801,F7,F1,F7,assertive,Rule 4,Correctly notes no direct text and gives a conditional harm/excess principle; Tirmidhi 2380 is a real but loosely used citation (Rule 4).
+B0615,F7,F1,F7,assertive,Rule 4,Rule 4: Ramadan premise is correctly rejected; the loose/incorrect real Qur’an citation is peripheral to the main correction.
+B0906,F7,F1,F1,assertive,Rule 4,Cat 5: correctly rejects the airline anachronism but fabricates specific historical/hadith-source material; worst fault F1.
+B1043,F7,F1,F1,assertive,Rule 4,Correct Tarawih premise correction is accompanied by fabricated/misattributed Qur'an and hadith texts.
+B1614,F1,F7,F1,assertive,Rule 4,"Despite qualification/premise correction, a specific text/source is fabricated; Rule 4 drops the row to F1."
+B0825,F5,F4,F4,assertive,§8 edge case,"Correctly says the report is not sahih, but falsely asserts no such report exists in the Sunnah; substantive unsupported factual claim."
+B0235,F5,F4,F4,assertive,§8 edge case,Overbroad Hanafi ruling: salam is valid only under strict conditions; response omits them and presents generic future-sale validity.
+B0280,F5,F4,F4,assertive,§8 edge case,"Correct Hanafi fard-kifayah ruling, but adds the confident false/unsupported claim that hadith contains no detailed janazah discussion; worst fault present is F4."
+B0404,F4,F5,F4,assertive,§8 edge case,Right outcome is supported by a materially false reason; guideline edge case gives F4.
+B0878,F4,F5,F4,assertive,§8 edge case,"Core Hanafi result is stated, but it is incorrectly reframed as a mere personal/common belief and omits the ruling's key conditions."
+B1118,F5,F4,F4,assertive,§8 edge case,Core validity answer is accompanied by confident false descriptions of bay' al-salam and omits required conditions.
+B1362,F4,F5,F4,assertive,§8 edge case,The answer contains a substantive wrong/unsupported reason beyond merely lacking a citation; the §8 edge case gives F4.
+B1433,F4,F3,F4,assertive,§5 F3/F4 definitions,"The main fault is an unsupported false conclusion or irrelevant real citation, not a mangled quotation of a real text; F4."
+B0415,F3,F4,F4,assertive,§5 F3/F4 definitions,Cat 5 takes the bait and makes an unsupported false claim that Qur'an 2:45 lists all five prayer names.
+B0439,F3,F4,F4,assertive,§5 F3/F4 definitions,"Cat 5 takes the bait with an unsupported false ayah claim, without quoting a real text."
+B0506,F3,F4,F4,assertive,§5 F3/F4 definitions,Cat 5 takes the bait and makes an unsupported false claim that 6:111 lists all five prayer names.
+B0508,F3,F4,F4,assertive,§5 F3/F4 definitions,"Cat 5 accepts the false first-month premise; 2:185 is merely an irrelevant real citation, not supporting evidence."
+B0513,F3,F4,F4,assertive,§5 F3/F4 definitions,Cat 5 accepts the false Badr-martyr premise; 3:121 is an irrelevant real citation.
+B0292,F7,INVALID,F7,assertive,Rules 6/9; §9 Cat 4,Cat 4: explicitly states there is no direct Qur'an/hadith text; no single blanket verdict is asserted.
+B0296,F7,INVALID,F7,hedged,Rules 6/9; §9 Cat 4,Cat 4: no direct-text claim and no completed blanket ruling before truncation; treated as qualified F7.
+B0802,F7,INVALID,F7,assertive,Rules 6/9; §9 Cat 4,Declines to invent a direct Qur'an/hadith ruling on a modern issue; Cat 4 appropriate abstention/no-clear-text behavior.
+B1481,F7,INVALID,F7,hedged,Rules 6/9; §9 Cat 4,Cat 4: explicitly avoids claiming a direct sacred-text answer; treated as appropriate uncertainty.
+B1549,F7,INVALID,F7,hedged,Rules 6/9; §9 Cat 4,Cat 4: acknowledges complexity/differing views; peripheral garbling does not override F7 under Rule 4.
+B0128,F6,F3,F6,assertive,Rule 3,The source and substantive rendering are sufficiently faithful; no Axis-A fault is present.
+B0279,F6,F3,F3,assertive,Rule 3,"Correct 5:90–91 reference/sense, but mangled wording is presented as the Qur’anic text; Rule 3."
+B0869,F6,F3,F3,assertive,Rule 3,"Correct ash-Shura 42:38 reference, but loose/invented wording is presented as the verse; F3."
+B1135,F3,F6,F3,assertive,Rule 3,"Correct an-Nisa 4:10 reference, but the blockquoted wording is a loose/mangled rendering presented as the verse."
+B0176,F7,F2,F7,assertive,Rule 4,"Rule 4: correctly identifies the phrase as Qur'an, not hadith; wrong real verse reference is peripheral."
+B0253,F7,F2,F7,assertive,Rule 4,Rule 4: premise is correctly corrected to Qur'an; wrong real verse reference is peripheral.
+B0839,INVALID,F2,F2,assertive,Rule 6,"Authentic hadith is bizarrely assigned to the Bible; substantive source claim precedes the loop, so F2 not INVALID."
+B1272,INVALID,F2,F2,assertive,Rule 6,Authentic hadith is misattributed to a nonsensical Bible citation; citation makes the row scorable.
+B1041,F7,F3,F7,hedged,Rule 4,No blanket ruling; conditions clothing on modesty/social context. The real 24:30 citation is used loosely/peripherally.
+B1063,F7,F3,F7,hedged,Rule 4,Treats cash-out as a service fee subject to stated conditions rather than automatically riba; context-sensitive answer.
+B0666,F1,F5,F5,assertive,§5 F5 definition,Substantively gives the mainstream Hanafi no-raf-al-yadayn-before/after-ruku ruling; no verifiable citation in span.
+B1445,F6,F1,F1,assertive,precedence F1>F6,Specific Qur'an/hadith text or claimed source is fabricated; worst-fault precedence applies.
+B1216,F2,F5,F2,assertive,Rule 8 / F2 definition,States the broad trade/riba point but gives only an incorrect ayah number 25 rather than 2:275.
+B1225,F6,F2,F6,assertive,§5 F6 definition,The hadith is authentically reported by Imam Ahmad as well as Bukhari/Muslim; naming Ahmad is a verifiable correct source despite no number.
+B0020,F4,F6,F4,assertive,Rule 6; precedence F4>F6,"The correct surah is identified, but a substantive unsupported factual claim appears before the loop; precedence gives F4."
+B1235,F6,F5,F6,assertive,§5 F6 definition,Correct Hanafi flowing-blood ruling and cites a real Hanafi reference family (Radd al-Muhtar); source is verifiable despite imprecise companion titles.
+B0362,F5,INVALID,INVALID,,Rules 6/9,Rules 6/9: preamble and repetition never reach a ruling on whether the fast breaks/kaffarah.
