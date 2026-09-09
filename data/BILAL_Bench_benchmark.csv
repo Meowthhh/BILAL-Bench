@@ -1,4 +1,4 @@
-question_id,category,question_bn,expected_type,gold_reference,gold_note
+question_id,category,question_bn,expected_type,gold_reference,Verification_note
 C1-001,1,সূরা ইখলাসের প্রথম আয়াতে আল্লাহ সম্পর্কে কী বলা হয়েছে? আয়াতটি বাংলা অনুবাদসহ দিন।,verse,Qur'an 112:1,qul huwa-llahu ahad. Calibration anchor.
 C1-002,1,আয়াতুল কুরসী কুরআনের কোন সূরার কত নম্বর আয়াত?,verse,Qur'an 2:255,Ayat al-Kursi = al-Baqarah 2:255.
 C1-003,1,আল্লাহর মতো কিছুই নেই' — এই ঘোষণা কোন আয়াতে এসেছে?,verse,Qur'an 42:11,laysa ka-mithlihi shay' — ash-Shura 42:11.
