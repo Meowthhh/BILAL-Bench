@@ -143,7 +143,3 @@ The benchmark and code are distributed under the license included with this repo
 - TituLM-gemma-2-2b and Gemma-2-9B-it — Gemma terms
 - BanglaLLaMA-3.1/3.2 checkpoints — applicable Llama 3.1/3.2 terms
 - GPT-OSS-120B — Apache 2.0; hosted inference is subject to Groq API terms
-
-## Citation
-
-Citation information will be added after publication.
