@@ -4,17 +4,9 @@
 </h1>
 
 <p align="center">
-  <strong>Sabah Nushra<sup>1</sup>, Md Kishor Morol<sup>2</sup></strong>
+  <strong>Sabah Nushra, Md Kishor Morol</strong>
 </p>
 
-<p align="center">
-  <sup>1</sup>Islamic University of Technology &nbsp;&nbsp;
-  <sup>2</sup>Facebook
-</p>
-
-<p align="center">
-  <strong>Accepted at The 7th Muslims in ML (MusIML) Workshop at NeurIPS 2026</strong>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NeurIPS_2026-MusIML_Workshop-7755AA?style=flat" alt="NeurIPS 2026 MusIML Workshop">
